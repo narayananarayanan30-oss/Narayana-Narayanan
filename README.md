@@ -1,2 +1,2 @@
 # Narayana-Narayanan
-using java projrct to usuable easte recycle engagement
+using java projrct to usuable waste recycle engagement
